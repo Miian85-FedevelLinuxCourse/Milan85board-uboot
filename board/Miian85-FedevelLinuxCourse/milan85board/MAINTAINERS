@@ -1,0 +1,8 @@
+MX6SABRESD BOARD
+M:	Milan Milanovic <milan1808@hotmail.com>
+S:	Maintained
+F:	board/Miian85-FedevelLinuxCourse/milan85board/
+F:	include/configs/milan85board.h
+F:	configs/mx6dlmilan85board_defconfig
+F:	configs/mx6qmilan85board_defconfig
+F:	configs/milan85board_spl_defconfig

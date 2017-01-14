@@ -1,0 +1,12 @@
+if TARGET_MILAN85BOARD
+
+config SYS_BOARD
+	default "milan85board"
+
+config SYS_VENDOR
+	default "Miian85-FedevelLinuxCourse"
+
+config SYS_CONFIG_NAME
+	default "milan85board"
+
+endif
